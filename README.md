@@ -60,6 +60,9 @@ The quantum circuit was implemented using:
 - 1000 epochs for the enhanced W-QuPCG⁺ model
 - NVIDIA GeForce RTX 4090 GPU with 24 GB memory
 
+`demo.py` provides a preliminary demonstration of the QuPCG framework for processing PCG features with an 8-qubit quantum convolutional neural network (QCNN) for abnormal heart-sound pattern detection.
+
+
 ---
 
 ## Citation
